@@ -1,3 +1,5 @@
+# This repository has been merged into ubuntu/yaru.
+
 Suru Icons & Cursors
 ====================
 
